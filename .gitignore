@@ -1,0 +1,50 @@
+# Arduino IDE temporary files
+
+*.ino.cpp
+*.ino.bin
+*.elf
+*.hex
+
+# Build folders
+
+build/
+Build/
+
+# Arduino cache
+
+arduino_cache/
+.cache/
+
+# VS Code
+
+.vscode/
+
+# PlatformIO
+
+.pio/
+.pioenvs/
+
+# macOS
+
+.DS_Store
+
+# Windows
+
+Thumbs.db
+Desktop.ini
+
+# Log files
+
+*.log
+
+# Backup files
+
+*.bak
+*.tmp
+*.swp
+*~
+
+# Temporary files
+
+*.temp
+*.orig
