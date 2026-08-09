@@ -72,4 +72,4 @@ This project is developed for educational and learning purposes. You may use or 
 
 ## 👩‍💻 Author
 
-Developed as an Embedded Systems project using Arduino Uno, HC-05 Bluetooth Module, DS3231 RTC Module, and Relay Module for smart home automation applications.
+VEDHA VARSHINI S R
